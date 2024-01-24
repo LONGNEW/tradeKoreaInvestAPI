@@ -1,0 +1,4 @@
+mojito2==0.1.6
+firebase-admin==6.3.0
+requests==2.31.0
+schedule==1.2.1
